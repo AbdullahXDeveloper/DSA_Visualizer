@@ -4,9 +4,7 @@ A premium, interactive Data Structures and Algorithms (DSA) visualizer built in 
 
 ## 📸 Screenshots
 
-*(Replace these placeholders with your actual screenshots)*
-
-![Main Interface](
+![Main Interface]
 <img width="959" height="505" alt="image" src="https://github.com/user-attachments/assets/d4259d65-0c3f-446b-a26c-0ccdb5cbffb1" />
 
 ![Algorithm Detection]
